@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     //MARK: Outlets
+    
     //send info somewhere, connected to something in the story board
     @IBOutlet weak var colorView: UIView!
     @IBOutlet weak var greenSwitch: UISwitch!
